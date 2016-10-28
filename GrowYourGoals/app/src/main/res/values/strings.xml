@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="button_login">\t\t  login with g+ \t\t</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_create_new_goal">CreateNewGoal</string>
+    <string name="title_activity_garden">GardenActivity</string>
+    <string name="title_activity_choose_plant">ChoosePlantActivity</string>
+    <string name="large_text">""</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+
+    <!-- setting up google sign in-->
+
+    <string name="app_name">Grow Your Goals</string>
+    <string name="title_text">Grow Your\nGoals</string>
+
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="signed_in">Signed in</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="signed_out">Signed out</string>
+
+    <string name="loading">Loading…</string>
+    <string name="auth_code_fmt">Auth Code: %s</string>
+    <string name="id_token_fmt">ID Token: %s</string>
+
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+
+    <string name="desc_google_icon">Google Logo</string>
+    <string name="title_activity_scrolling_garden">My Garden</string>
+    <string name="title_activity_view_goal">ViewGoal</string>
+</resources>

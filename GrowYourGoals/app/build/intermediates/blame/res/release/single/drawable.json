@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/flower_young_healthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/flower_young_healthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/flower_young_superhealthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/flower_young_superhealthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_adult_sick.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_adult_sick.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_young_sick.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_young_sick.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/flower_adult_healthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/flower_adult_healthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/tree_adult_superhealthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/tree_adult_superhealthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/plant_flower.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/plant_flower.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/tree_young_healthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/tree_young_healthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_seedling_dying.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_seedling_dying.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/tree_adult_dying.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/tree_adult_dying.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/tree_young_dying.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/tree_young_dying.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/flower_seedling.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/flower_seedling.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/googleg_color.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/googleg_color.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/flower_young_dying.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/flower_young_dying.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/healthy_flower.jpg",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/healthy_flower.jpg"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/flower_young_sick.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/flower_young_sick.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/tree_seedling_healthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/tree_seedling_healthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_seedling_healthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_seedling_healthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_young_healthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_young_healthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/tree_young_sick.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/tree_young_sick.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/flower_adult_dying.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/flower_adult_dying.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_young_superhealthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_young_superhealthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_seedling_sick.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_seedling_sick.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/login.jpg",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/login.jpg"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_adult_superhealthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_adult_superhealthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/flower_adult_superhealthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/flower_adult_superhealthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/young_flower.jpg",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/young_flower.jpg"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_adult_healthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_adult_healthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/flower_adult_sick.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/flower_adult_sick.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/tree_young_superhealthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/tree_young_superhealthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/tree_adult_healthy.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/tree_adult_healthy.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/tree_adult_sick.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/tree_adult_sick.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_young_dying.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_young_dying.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/cactus_adult_dying.png",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/cactus_adult_dying.png"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/release/drawable/dying_flower.jpeg",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/drawable/dying_flower.jpeg"
+    }
+]

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143249280381",
+    "project_id": "grow-your-goals"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143249280381:android:f8ba61dfd3b5fc45",
+        "android_client_info": {
+          "package_name": "cs498r.growyourgoals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143249280381-4r235jrj4tk45533e0h2a3dgooerm29n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cs498r.growyourgoals",
+            "certificate_hash": "24070FB548B6A4ED8195750DEDA81E9C5CF5A051"
+          }
+        },
+        {
+          "client_id": "143249280381-e7m4ilc3jjovo45ta68vbfig75omjsv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF67ykbqrpEK-TZKs1NFLX_V9rpLFNndA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

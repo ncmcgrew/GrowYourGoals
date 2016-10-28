@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/debug/menu/menu_garden.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/menu/menu_garden.xml"
+    },
+    {
+        "merged": "/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/res/merged/debug/menu/menu_choose_plant.xml",
+        "source": "/home/nate/School/CS498R/GrowYourGoals/app/src/main/res/menu/menu_choose_plant.xml"
+    }
+]

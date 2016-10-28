@@ -1,0 +1,2 @@
+CHANGED,/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cs498r/growyourgoals/model/Constants$override.class
+CHANGED,/home/nate/School/CS498R/GrowYourGoals/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

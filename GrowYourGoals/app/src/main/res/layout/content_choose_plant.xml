@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ChoosePlant"
+    tools:showIn="@layout/activity_choose_plant">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="55dp"
+        android:id="@+id/image_grid"
+        android:columnCount="@integer/garden_num_columns">
+
+        <!--<ImageView-->
+            <!--android:layout_width="75dp"-->
+            <!--android:layout_height="75dp"-->
+            <!--android:src="@drawable/plant_flower"-->
+            <!--android:id="@+id/flower"-->
+            <!--android:tag="flower"-->
+            <!--android:layout_columnWeight="1"-->
+            <!--android:layout_rowWeight="1"-->
+            <!--android:onClick="submitGoal" />-->
+
+        <!--<ImageView-->
+            <!--android:layout_width="75dp"-->
+            <!--android:layout_height="75dp"-->
+            <!--android:src="@drawable/cactus_adult_healthy"-->
+            <!--android:id="@+id/cactus"-->
+            <!--android:tag="cactus"-->
+            <!--android:layout_columnWeight="1"-->
+            <!--android:layout_rowWeight="1"-->
+            <!--android:onClick="submitGoal" />-->
+
+        <!--<ImageView-->
+        <!--android:layout_width="75dp"-->
+        <!--android:layout_height="75dp"-->
+        <!--android:src="@drawable/plant_lily"-->
+        <!--android:id="@+id/plant_lily"-->
+        <!--android:tag="plant_lily"-->
+        <!--android:layout_columnWeight="1"-->
+        <!--android:layout_rowWeight="1"-->
+        <!--android:onClick="submitGoal" />-->
+        <!--<ImageView-->
+            <!--android:layout_width="75dp"-->
+            <!--android:layout_height="75dp"-->
+            <!--android:src="@drawable/plant_tree"-->
+            <!--android:tag="tree"-->
+            <!--android:layout_columnWeight="1"-->
+            <!--android:layout_rowWeight="1"-->
+            <!--android:onClick="submitGoal" />-->
+
+    </GridLayout>
+
+</android.support.v4.widget.NestedScrollView>
